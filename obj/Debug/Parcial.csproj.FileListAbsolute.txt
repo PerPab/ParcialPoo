@@ -1,0 +1,8 @@
+C:\Users\pablo\Desktop\PracialPoo\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\pablo\Desktop\PracialPoo\Parcial\bin\Debug\Parcial.exe
+C:\Users\pablo\Desktop\PracialPoo\Parcial\bin\Debug\Parcial.pdb
+C:\Users\pablo\Desktop\PracialPoo\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\PracialPoo\Parcial\obj\Debug\Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Desktop\PracialPoo\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\PracialPoo\Parcial\obj\Debug\Parcial.exe
+C:\Users\pablo\Desktop\PracialPoo\Parcial\obj\Debug\Parcial.pdb
